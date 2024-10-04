@@ -9,8 +9,10 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 
 * 🌍  I'm based in São Paulo - BR
 * ✉️  You can contact me at [https://www.linkedin.com/in/arthur-marcal/](mailto:https://www.linkedin.com/in/arthur-marcal/)
+* 🎓  MSc in Artificial Intelligence applied to NLP - [University of São Paulo (USP)](https://www5.usp.br/)
 * 🚀  I'm currently working on [Gabriel Money](http://gabriel.money/)
 * 🧠  I'm learning 🦀 Rust Programming
+
 
 ### Skills
 
