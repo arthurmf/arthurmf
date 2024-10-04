@@ -1,10 +1,11 @@
 Hi 👋 My name is Arthur Marçal
 ==============================
 
-Engineering Manager passionate about AI, data, and fascinated by all things tech
+Engineering Manager with 10+ years of experience in Software Development. Passionate about AI, data, and fascinated by all things tech
 --------------------------------------------------------------------------------
 
 Built my first (terrible) website at 12 and quickly realized front-end development wasn’t for me. After a brief hiatus from web design, I explored hardware and robotics programming during college, but ultimately discovered my true passion in data and AI—and I haven’t looked back since.
+
 
 * 🌍  I'm based in São Paulo - BR
 * ✉️  You can contact me at [https://www.linkedin.com/in/arthur-marcal/](mailto:https://www.linkedin.com/in/arthur-marcal/)
