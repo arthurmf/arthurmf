@@ -11,7 +11,7 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 * ✉️  You can contact me at [https://www.linkedin.com/in/arthur-marcal/](mailto:https://www.linkedin.com/in/arthur-marcal/)
 * 🎓  MSc in Artificial Intelligence applied to NLP - [University of São Paulo (USP)](https://www5.usp.br/)
 * 🚀  I'm currently working on [Gabriel Money](http://gabriel.money/)
-* 🧠  I'm learning 🦀 Rust Programming
+* 🧠  I'm currently diving into 🦀 **Rust Programming** to push the boundaries of **Serverless** technologies. Some might say that I have a crush on <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="18" height="18" alt="Lambda"/> functions.
 
 
 ### Skills
