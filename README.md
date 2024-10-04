@@ -23,10 +23,10 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 ### 🚀 Recent Projects on Startups I’m Proud Of
 
 - **📱 Banking Mobile App (2024)**  
-  Led the development of a financial mobile app, launching it from scratch in just 6 months. The app achieved thousands of downloads and users within its first year.
+  Led the development of a financial mobile app for a Atlanta(US)-based startup, launching it from scratch in just 6 months. The app achieved thousands of downloads and users within its first year.
   
 - **🔧 Auto-Parts Catalog Data Pipeline (2023)**  
-  Led the first successful project at a San Francisco-based startup by designing and building a data pipeline to normalize sparse data from hundreds of auto-parts manufacturer catalogs. This solution significantly reduced e-commerce customer return rates, improving overall product accuracy and users satisfaction.
+  Led the first successful project at a San Francisco(US)-based startup by designing and building a data pipeline to normalize sparse data from hundreds of auto-parts manufacturer catalogs. This solution significantly reduced e-commerce customer return rates, improving overall product accuracy and users satisfaction.
   
 - **🏦 Fintech Data Strategy (2022)**  
   Managed the data strategy and roadmap at a fintech and real estate startup, driving the company’s growth from early stages to Series A, scaling from 10s to 100s employees. Led key initiatives in Data Science, Data Engineering, BI, and RPA, designing scalable data pipelines and integrating new technologies to support rapid expansion.
