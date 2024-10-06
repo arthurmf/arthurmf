@@ -31,6 +31,12 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 - **🏦 Fintech Data Strategy (2022)**  
   Managed the data strategy and roadmap at a fintech and real estate startup, driving the company’s growth from early stages to Series A, scaling from 10s to 100s employees. Led key initiatives in Data Science, Data Engineering, BI, and RPA, designing scalable data pipelines and integrating new technologies to support rapid expansion.
 
+### 💻 GitHub Projects
+
+Here are a few GitHub projects that highlight my skills and experience:
+
+- [**Fully Automated Infrastructure and Deploy for ETL Serverless Application**](https://github.com/arthurmf/Data_Engineering_Assessment_A)  
+  A data engineering project originally built in February 2022 to demonstrate my ability to create scalable data pipelines using AWS services. The project integrates AWS Lambda, AWS RDS, and AWS Wrangler for data ingestion and processing. It also includes automation through Terraform and Makefile to manage the infrastructure and dependencies. Recently, I revisited the project to enhance the deployment process and improve the code organization based on new insights and best practices I've gained.
 
 ### Socials
 
