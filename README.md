@@ -12,6 +12,7 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 * 🎓  MSc in Artificial Intelligence applied to NLP - [University of São Paulo (USP)](https://www5.usp.br/)
 * 🚀  I'm currently working on [Gabriel Money](http://gabriel.money/)
 * 🧠  I'm currently diving into 🦀 **Rust Programming** to push the boundaries of **Serverless** technologies. Some might say that I have a crush on <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="18" height="18" alt="Lambda"/> functions.
+* 🤖  Also, I’ve been exploring multi-agent systems to create automations that simulate collaborative tasks. I enjoy experimenting with frameworks like [**CrewAI**](https://www.crewai.com/) to build workflows where agents interact dynamically to achieve complex objectives
 
 
 ### Skills
@@ -37,6 +38,8 @@ Here are a few GitHub projects that highlight my skills and experience:
 
 - [**Fully Automated Infrastructure and Deploy for ETL Serverless Application**](https://github.com/arthurmf/Data_Engineering_Assessment_A)  
   A data engineering project originally built in February 2022 to demonstrate my ability to create scalable data pipelines using AWS services. The project integrates AWS Lambda, AWS RDS, and AWS Wrangler for data ingestion and processing. It also includes automation through Terraform and Makefile to manage the infrastructure and dependencies. Recently, I revisited the project to enhance the deployment process and improve the code organization based on new insights and best practices I've gained.
+- [**ReadMeGenie CrewAI**](https://github.com/arthurmf/readmegenie/tree/main/src/readmegenie)  
+  This project leverages the [**CrewAI**](https://www.crewai.com/) framework to build a multi-agent system that reads a GitHub repository, interprets the content of its files, and generates a detailed README.md file automatically.
 
 ### Socials
 
