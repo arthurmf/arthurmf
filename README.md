@@ -60,6 +60,8 @@ Here are a few GitHub projects that highlight my skills and experience:
   A data engineering project originally built in February 2022 to demonstrate my ability to create scalable data pipelines using AWS services. The project integrates AWS Lambda, AWS RDS, and AWS Wrangler for data ingestion and processing. It also includes automation through Terraform and Makefile to manage the infrastructure and dependencies. Recently, I revisited the project to enhance the deployment process and improve the code organization based on new insights and best practices I've gained.
 - [**ReadMeGenie CrewAI**](https://github.com/arthurmf/readmegenie/tree/main/src/readmegenie)  
   This project leverages the [**CrewAI**](https://www.crewai.com/) framework to build a multi-agent system that reads a GitHub repository, interprets the content of its files, and generates a detailed README.md file automatically.
+- [**PDF Quality Classifier**](https://github.com/arthurmf/pdf_classifier)  
+  A PDF classification tool that provides a simple GUI for reviewing and labeling PDFs as "Good" or "Bad." Users can navigate through documents, classify them, and export the results to a CSV file. Beyond manual classification, the tool serves as a valuable resource for building labeled datasets, which can be used for training machine learning models. Additionally, it can be distributed as a standalone Windows executable for easy sharing with non-technical users. Finally, the source code can be easily modified to add **new labels or categories** beyond "Good" or "Bad." With minimal changes to the GUI and logic, users can adapt the project to fit a variety of classification needs.
 
 ### Socials
 
