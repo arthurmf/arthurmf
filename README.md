@@ -10,9 +10,9 @@ Built my first (terrible) website at 12 and quickly realized front-end developme
 * 🌍  I'm based in São Paulo - BR
 * ✉️  You can contact me at [https://www.linkedin.com/in/arthur-marcal/](mailto:https://www.linkedin.com/in/arthur-marcal/)
 * 🎓  MSc in Artificial Intelligence applied to NLP - [University of São Paulo (USP)](https://www5.usp.br/)
-* 🚀  I'm currently working on [Gabriel Money](http://gabriel.money/)
+* 🚀  I'm currently working on [Freight Hero](https://www.freighthero.ai/)
 * 🧠  I'm currently diving into 🦀 **Rust Programming** to push the boundaries of **Serverless** technologies. Some might say that I have a crush on <img src="https://icon.icepanel.io/AWS/svg/Compute/Lambda.svg" width="18" height="18" alt="Lambda"/> functions.
-* 🤖  Also, I’ve been exploring multi-agent systems to create automations that simulate collaborative tasks. I enjoy experimenting with frameworks like [**CrewAI**](https://www.crewai.com/) to build workflows where agents interact dynamically to achieve complex objectives
+* 🤖  Also, I’ve been exploring multi-agent systems to create automations that simulate collaborative tasks. I enjoy developing with frameworks like [*LangGraph*](https://www.langchain.com/langgraph) and [**CrewAI**](https://www.crewai.com/) to build workflows where agents interact dynamically to achieve complex objectives
 
 
 ### Skills
